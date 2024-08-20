@@ -9,7 +9,7 @@ Since this script is copied from another script, both the copyright and license 
 ## How to use this script?
 Run this commands in a terminal:
 ```bash
-wget https://raw.githubusercontent.com/Lesak12/Install-jexa/main/install.sh && bash install.sh
+wget https://raw.githubusercontent.com/Lesak12/Jexi-install/main/install.sh && bash install.sh
 ```
 That's it! Now just answer questions as asked and your panel should be installed!
 
